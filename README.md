@@ -1,0 +1,2 @@
+# Data-Leakage-Detection
+Data leakage is an uncontrolled or unauthorized transmission of classified information to the outside. It poses a serious problem to companies as the cost of incidents continues to increase. Many software solutions were developed to provide data protection. However, data leakage detection systems cannot provide absolute protection. Thus, it is essential to discover data leakage as soon as possible. The purpose of this research is to design and implement a data leakage detection system based on  special information retrieval models and methods.
